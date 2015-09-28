@@ -83,11 +83,10 @@
 	http://www.voidtools.com/
 
 
-#### 资源管理器增强：listray ####
+#### 资源管理器增强：Listary ####
 	Listary is a unique search utility for Windows.
 	Clover伴侣，Everything好基友，还能集成到众多文件管理器，有绿色版本。
 	我用的时候一般会把双击启动禁用掉，保留鼠标中键启动。
-	
 	
 	http://www.listary.com/
 	
@@ -154,3 +153,36 @@
 
 	购买可淘宝：
 	https://s.taobao.com/search?initiative_id=tbindexz_20150928&spm=a21bo.7724922.8452-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=beyond+compare&suggest=0_1&_input_charset=utf-8&wq=beyond+com&suggest_query=beyond+com&source=suggest
+
+	
+#### 图表提取工具：BeCyIconGrabber ####
+	小巧方便，绿色，简单实用。
+	
+	http://www.becyhome.de/download_eng.htm
+	
+	
+#### 剪切板管理器：Ditto ####
+	Ditto is an extension to the standard windows clipboard。
+	支持各种格式复制粘贴保存，有绿色版。
+	
+	http://ditto-cp.sourceforge.net/
+
+
+#### 文件同步工具：FastCopy ####
+	官网自己说的：Windows系最速(?)のファイルコピー＆削除ツール
+
+	http://ipmsg.org/tools/fastcopy.html
+
+
+#### 字体渲染工具：MacType ####
+	Windows下仿Mac的字体渲染工具，
+	配置稍微有点点繁琐，但是，
+	用了就回不来了，至少我是这样。
+	
+	http://pan.baidu.com/s/1kT8JU4n
+
+#### 记事本替换器：Notepad2 ####
+	前面的文本编辑器都太程序员化了，有时我们仅仅需要一个更好的记事本
+	
+	http://www.flos-freeware.ch/notepad2.html
+
